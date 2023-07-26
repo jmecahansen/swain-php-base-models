@@ -1,5 +1,5 @@
 ﻿-- MySQL model routines
--- Author: Julio María Meca Hansen <julio@meca-innotech.com>
+-- Author: Julio María Meca Hansen <jmecahansen@gmail.com>
 
 -- bootstrapping
 DROP PROCEDURE IF EXISTS P_DELETE_MODEL_REFERENCES;

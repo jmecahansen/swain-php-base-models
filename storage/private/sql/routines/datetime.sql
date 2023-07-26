@@ -1,5 +1,5 @@
 ﻿-- MySQL extended date & time routines
--- Author: Julio María Meca Hansen <julio@meca-innotech.com>
+-- Author: Julio María Meca Hansen <jmecahansen@gmail.com>
 
 -- bootstrapping
 DROP FUNCTION IF EXISTS F_ADD_DURATION;
